@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using ParkingSystem.Data.Models;
 
 namespace ParkingSystem.Data
 {
